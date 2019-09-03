@@ -7,3 +7,6 @@ Hiking, Research, traveling
 Weather
 - What are the three most important tools/strategies you use for analyzing data?
 Excell and Matlab
+
+
+Hey man, what's up? :)
