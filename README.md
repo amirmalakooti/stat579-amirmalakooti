@@ -1,4 +1,4 @@
-# stat579-amirmalakooti
+## stat579-amirmalakooti
 
 Username: Amir Malakooti
 - In the past month, what are the three main activities you have been doing?
