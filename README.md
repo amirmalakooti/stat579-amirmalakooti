@@ -6,7 +6,7 @@ Hiking, Research, traveling
 - What kind of data are you usually working with?
 Weather
 - What are the three most important tools/strategies you use for analyzing data?
-Excell and Matlab
+Excel and Matlab
 
 
 Hey man, what's up? :)
